@@ -27,5 +27,14 @@ public class Main {
     System.out.println("Just making one more change to view");
 
     int a = (int) Math.random();
+
+    Integer b = new Integer(12);
+    System.out.println(b);
+
+    System.out.println("First humne kuch change kiya hai");
+
+    System.out.println("Lo ek aur change kar diya");
+    
+    System.out.println("Right from the github desktop, it is edited");
   }
 }
