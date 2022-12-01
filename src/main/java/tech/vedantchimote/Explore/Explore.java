@@ -11,6 +11,7 @@ public class Explore {
   public Explore(String name, int number) {
     this.name = name;
     this.number = number;
+    System.out.println("Chalo ab na constructor me change karke dekhte hai");
   }
 
   public Explore() {
