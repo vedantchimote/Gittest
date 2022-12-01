@@ -27,5 +27,8 @@ public class Main {
     System.out.println("Just making one more change to view");
 
     int a = (int) Math.random();
+
+    Integer b = new Integer(12);
+    System.out.println(b);
   }
 }
